@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Abhay Kumar Yadav
 
 🎓 B.Tech (IT) | 🎯 Data Science & Analytics Enthusiast  
-🔧 Tools: Python | SQL | Power BI | Pandas | Scikit-learn | Git  
-📍 Based in Durgapur | Open to Remote Roles
+🔧 Tools: Python | SQL | Power BI | Pandas | Scikit-learn | Git  | ML | Numpy | |Matplotlib|
 
 ---
 
-### 💡 About Me
+ About Me
 
 Aspiring Data Analyst / ML Engineer with a passion for solving business problems using data.  
 I enjoy transforming raw data into actionable insights and deploying ML models that matter.
 
 ---
 
-### 🔨 My Key Skills
+My Key Skills
 
 - **Languages**: Python, SQL  
 - **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn  
@@ -22,7 +21,7 @@ I enjoy transforming raw data into actionable insights and deploying ML models t
 
 ---
 
-### 📊 Featured Projects
+📊 Featured Projects
 
 | 🔗 Project | 🔧 Tools | 📄 Description |
 |-----------|----------|----------------|
@@ -32,13 +31,11 @@ I enjoy transforming raw data into actionable insights and deploying ML models t
 
 ---
 
-### 📫 Connect With Me
+Connect With Me
 
 - 📧 Email: abhayyadav040702@gmail.com  
 - 💼 [LinkedIn]([https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/abhay-kumar-yadav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 
 
----
 
-_“Data beats opinions. Let’s find the truth in the numbers.”_
 
