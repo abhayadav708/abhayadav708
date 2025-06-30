@@ -35,8 +35,8 @@ I enjoy transforming raw data into actionable insights and deploying ML models t
 ### 📫 Connect With Me
 
 - 📧 Email: abhayyadav040702@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link-here)  
-- 🗂️ Portfolio: [coming soon or GitHub Projects]
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/abhay-kumar-yadav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 
 
 ---
 
