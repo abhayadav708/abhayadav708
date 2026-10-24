@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Abhay Kumar Yadav
 
 🎓 B.Tech (IT) | 🎯 Data Science & Analytics Enthusiast  
-🔧 Tools: Python | SQL | Power BI | Pandas | Scikit-learn | Git  | ML | Numpy | |Matplotlib|
+🔧 Tools: Python | SQL | Selenium | Pandas | SDLC | Git  | STLC | Numpy | |Matplotlib|
 
 ---
 
  About Me
 
-Aspiring Data Analyst / ML Engineer with a passion for solving business problems using data.  
-I enjoy transforming raw data into actionable insights and deploying ML models that matter.
+Aspiring Data Analyst / Test Engineer with a passion for solving business problems using data.  
+I enjoy transforming raw data into actionable insights and deploying models that matter.
 
 ---
 
 My Key Skills
 
 - **Languages**: Python, SQL  
-- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Tools**: Power BI, Jupyter, VS Code, Git, Excel  
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn , Selenium 
+- **Tools**: Power BI, Jupyter, VS Code, Git, Excel, SDLC, STLC
 - **Database**: MySQL, SQL Server
 
 ---
